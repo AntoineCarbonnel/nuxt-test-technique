@@ -3,7 +3,7 @@
 </script>
 
 <template>
-	<section class="flex flex-col mx-6 my-8 max-w-2xl gap-y-4">
+	<section class="flex flex-col mx-6 my-8 max-w-3xl w-full gap-y-4">
 		<article class="rounded-3xl radient text-white p-4">
 			<h1 class="font-bold text-lg">
 				Lycée Gaston Berger
