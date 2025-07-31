@@ -1,75 +1,67 @@
-# Nuxt Minimal Starter
+# Lycée Gaston Berger - Application Web
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## Description
 
-## Setup
+Cette application web est une interface permettant de gérer et visualiser les informations du Lycée Gaston Berger à Lille. Elle offre les fonctionnalités suivantes :
 
-Make sure to install dependencies:
+- Affichage des informations générales du lycée
+- Gestion des classes
+- Gestion des spécialités
+- Système de notation
+- Interface moderne avec un design responsive
 
-```bash
-# npm
-npm install
+## Prérequis
 
-# pnpm
-pnpm install
+- Node.js (version 16 ou supérieure)
+- Yarn
 
-# yarn
-yarn install
+## Installation
 
-# bun
-bun install
-```
+1. Clonez le dépôt :
+   ```bash
+   git clone https://github.com/AntoineCarbonnel/nuxt-test-technique.git
+   cd lycee-gaston-berger
+   ```
 
-## Development Server
+2. Installez les dépendances :
+   ```bash 
+   yarn install
+   ```
 
-Start the development server on `http://localhost:3000`:
+3. Lancez le serveur de développement :
+   ```bash
+   yarn dev
+   ```
 
-```bash
-# npm
-npm run dev
 
-# pnpm
-pnpm dev
+L'application sera accessible à l'adresse : `http://localhost:3000`
 
-# yarn
-yarn dev
+## Technologies utilisées
 
-# bun
-bun run dev
-```
+- Vue.js 3.5.18
+- Nuxt 4.0.1
+- Vue Router 4.5.1
+- Tailwind CSS
+- TypeScript
 
-## Production
+## Scripts disponibles
 
-Build the application for production:
+- `yarn dev` : Lance le serveur de développement
+- `yarn build` : Compile l'application pour la production
+- `yarn start` : Lance l'application en mode production
+- `yarn lint` : Vérifie le code avec le linter
 
-```bash
-# npm
-npm run build
+## Structure du projet
 
-# pnpm
-pnpm build
+- `/assets` : Contient les ressources statiques (images, etc.)
+- `/components` : Composants Vue réutilisables
+- `/pages` : Pages de l'application
+- `/public` : Fichiers accessibles publiquement
 
-# yarn
-yarn build
+## Contribution
 
-# bun
-bun run build
-```
+Pour contribuer au projet, veuillez :
 
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+1. Créer une branche pour votre fonctionnalité
+2. Commiter vos changements
+3. Créer une Pull Request
