@@ -1,7 +1,7 @@
 {
   "bac": {
     "general": {
-      "nom": "Baccalauréat Général",
+      "nom": "Général",
       "specialites": [
         "Mathématiques",
         "Physique-Chimie",
@@ -15,7 +15,7 @@
       ]
     },
     "technologique": {
-      "nom": "Baccalauréat Technologique",
+      "nom": "Technologique",
       "series": [
         "STI2D (Sciences et Technologies de l'Industrie et du Développement Durable)",
         "STMG (Sciences et Technologies du Management et de la Gestion)",
@@ -27,7 +27,7 @@
       ]
     },
     "professionnel": {
-      "nom": "Baccalauréat Professionnel",
+      "nom": "Professionnel",
       "domaines": [
         "Gestion-Administration",
         "Commerce",

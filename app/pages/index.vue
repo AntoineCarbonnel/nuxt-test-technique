@@ -3,7 +3,7 @@
 </script>
 
 <template>
-	<section class="mx-6 mt-8 max-w-2xl">
+	<section class="flex flex-col mx-6 my-8 max-w-2xl gap-y-4">
 		<article class="rounded-3xl radient text-white p-4">
 			<h1 class="font-bold text-lg">
 				Lycée Gaston Berger
@@ -25,6 +25,8 @@
 			</section>
 		</article>
 		<CardClass />
+		<CardSpecialities />
+		<CardNotes />
 	</section>
 </template>
 

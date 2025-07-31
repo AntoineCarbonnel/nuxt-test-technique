@@ -1,9 +1,5 @@
-<script lang="ts" setup>
-
-</script>
-
 <template>
-	<header class="p-4 border-b-2">
+	<header class="p-4 border-b-2 sticky top-0 bg-[#F7F3F0] z-50">
 		<NuxtLink to="/" class="inline-block">
 			<img
 					src="/assets/logo.png"
@@ -12,9 +8,4 @@
 			/>
 		</NuxtLink>
 	</header>
-
 </template>
-
-<style scoped>
-
-</style>
