@@ -1,0 +1,44 @@
+{
+  "bac": {
+    "general": {
+      "nom": "Baccalauréat Général",
+      "specialites": [
+        "Mathématiques",
+        "Physique-Chimie",
+        "Sciences de la Vie et de la Terre",
+        "Sciences Économiques et Sociales",
+        "Histoire-Géographie, Géopolitique et Sciences Politiques",
+        "Humanités, Littérature et Philosophie",
+        "Langues, Littératures et Cultures Étrangères",
+        "Numérique et Sciences Informatiques",
+        "Arts"
+      ]
+    },
+    "technologique": {
+      "nom": "Baccalauréat Technologique",
+      "series": [
+        "STI2D (Sciences et Technologies de l'Industrie et du Développement Durable)",
+        "STMG (Sciences et Technologies du Management et de la Gestion)",
+        "ST2S (Sciences et Technologies de la Santé et du Social)",
+        "STL (Sciences et Technologies de Laboratoire)",
+        "STD2A (Sciences et Technologies du Design et des Arts Appliqués)",
+        "STAV (Sciences et Technologies de l'Agronomie et du Vivant)",
+        "STHR (Sciences et Technologies de l'Hôtellerie et de la Restauration)"
+      ]
+    },
+    "professionnel": {
+      "nom": "Baccalauréat Professionnel",
+      "domaines": [
+        "Gestion-Administration",
+        "Commerce",
+        "Vente",
+        "Métiers de l'électricité",
+        "Maintenance des équipements industriels",
+        "Accompagnement, soins et services à la personne",
+        "Métiers de la mode",
+        "Métiers du bâtiment",
+        "Systèmes numériques"
+      ]
+    }
+  }
+}

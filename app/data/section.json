@@ -1,0 +1,37 @@
+{
+  "classes": {
+    "seconde": {
+      "nom": "Seconde",
+      "niveau": "2nde",
+      "sections": [
+        "Seconde 1",
+        "Seconde 2",
+        "Seconde 3",
+        "Seconde 4",
+        "Seconde 5"
+      ]
+    },
+    "premiere": {
+      "nom": "Première",
+      "niveau": "1ère",
+      "sections": [
+        "Première 1",
+        "Première 2",
+        "Première 3",
+        "Première 4",
+        "Première 5"
+      ]
+    },
+    "terminale": {
+      "nom": "Terminale",
+      "niveau": "Tle",
+      "sections": [
+        "Terminale 1",
+        "Terminale 2",
+        "Terminale 3",
+        "Terminale 4",
+        "Terminale 5"
+      ]
+    }
+  }
+}
